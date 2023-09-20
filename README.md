@@ -1,4 +1,4 @@
-# Angular 16 Node.js Project: CRUD example
+# Angular 16 Node.js Project: 
 
 
 ![angular-node-js-project-example](angular-node-js-project-example.png)
